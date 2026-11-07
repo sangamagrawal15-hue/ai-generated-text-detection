@@ -1,0 +1,7 @@
+Sample texts for testing the app. Paste one at a time. Also try your own writing and text from ChatGPT.
+
+--- Sample 1 (formal, AI-style) ---
+In conclusion, it is important to note that urban planning plays a crucial role in promoting sustainability. Furthermore, reducing car dependency can potentially improve public health and environmental outcomes. Additionally, cities that invest in public transport often see long-term economic benefits.
+
+--- Sample 2 (casual, human-style) ---
+honestly i think cars are bad because my town has too many of them and people just sit in traffic all day. we should walk more and my dad agrees with me even though he drives to work every single morning.
