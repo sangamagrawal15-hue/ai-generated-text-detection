@@ -1,7 +1,8 @@
+
 {
   "functions": {
     "api/predict.py": {
-      "includeFiles": "api/model.json"
+      "includeFiles": "../model.json"
     }
   }
 }
