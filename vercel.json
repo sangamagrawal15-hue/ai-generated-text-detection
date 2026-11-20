@@ -2,7 +2,7 @@
 {
   "functions": {
     "api/predict.py": {
-      "includeFiles": "../model.json"
+      "includeFiles": "api/model.json"
     }
   }
 }
